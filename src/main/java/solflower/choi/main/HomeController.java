@@ -9,7 +9,7 @@ public class HomeController {
 	@RequestMapping("/")
 	public String aa() {
 		
-		return "NewFile.jsp";
+		return "NewFile";
 		
 	}
 }
